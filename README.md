@@ -15,3 +15,14 @@ A comparative analysis has been conducted to assess the **accuracy, precision, r
 The model results are **summarized in graphs** to make it easier to understand how each model performs.
 
 https://colab.research.google.com/drive/1DmzgMnJkRzlGEYgoxbAjEgIarEz-HlIp?usp=sharing
+
+# 2. Fashion-MNIST Classification with Keras
+**This project involves the creation of a predictive model** utilizing the Fashion-MNIST dataset to classify clothing items into ten distinct categories. The model is developed with Keras's Sequential API.
+
+## Results of model
+The results of the various metrics are displayed and plotted in graphs, providing a clear visual summary of the model's classification capabilities.
+
+## Dataset Overview
+The Fashion-MNIST set contains 70,000 grayscale images, with 60,000 for training and 10,000 for testing, each 28x28 pixels in size, and labeled from 0 to 9 to denote different fashion articles like T-shirts, trousers, and bags.
+
+https://colab.research.google.com/drive/1z6_VHF1d1K0FUaCGITf_x_C8ICA62qCs?usp=sharing
